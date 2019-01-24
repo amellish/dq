@@ -3,8 +3,9 @@
 - IMB Statistics
 - Orange
 - KNIME
-- rapidmine
 
 # New tools:
 - Tableau Prep
 - Trifecta Wrangler
+- rapidminer
+- Weka
