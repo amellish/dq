@@ -3,3 +3,6 @@
 ## Section 1:  First data quality report
 - Python
 - R
+## Section 2:  Some tools
+- weka
+- rapidminer
