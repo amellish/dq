@@ -4,3 +4,6 @@
 - Orange
 - KNIME
 - rapidmine
+
+# New tools:
+- Tableau Prep
