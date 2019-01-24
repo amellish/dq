@@ -3,4 +3,5 @@
 - IMB Statistics
 - Orange
 - KNIME
-- rapidmine
+- rapidminer
+- Weka
